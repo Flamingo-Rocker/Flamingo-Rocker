@@ -22,7 +22,7 @@ Real-world machine learning applications from my GitHub portfolio:
 - **[Taxi Orders Forecasting](#)** → Time series models (AR, ARIMA, LightGBM) for demand prediction  
 - **[Customer Churn Prediction](#)** → Classification models to forecast churn and retention drivers  
 
-*(Replace `#` with the actual GitHub repo links for each project.)*
+*(Links/repos under-construction)*
 
 ---
 
