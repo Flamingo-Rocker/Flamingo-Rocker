@@ -30,3 +30,20 @@ Real-world machine learning applications from my GitHub portfolio:
 - 💼 [LinkedIn](https://www.linkedin.com/in/schristopher93/)  
 - 💻 [GitHub](https://github.com/Flamingo-Rocker)  
 - 📧 seth.christopher93@gmail.com
+
+---
+## 📊 GitHub Stats  
+
+<p align="left">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Flamingo-Rocker&color=blue&style=flat"/>
+</p>
+
+<p align="left">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Flamingo-Rocker&show_icons=true&theme=dark" height="180px"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flamingo-Rocker&layout=compact&theme=dark" height="180px"/>
+</p>
+
