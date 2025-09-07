@@ -41,9 +41,9 @@ Real-world machine learning applications from my GitHub portfolio:
 
 <p align="left">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Flamingo-Rocker&show_icons=true&theme=dark" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Flamingo-Rocker&show_icons=true&count_private=true&theme=dark&cache_seconds=1800" height="180px"/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flamingo-Rocker&layout=compact&theme=dark" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flamingo-Rocker&layout=compact&theme=dark&count_private=true&cache_seconds=1800" height="180px"/>
 </p>
 
