@@ -17,12 +17,10 @@ I thoroughly enjoy playing guitar and writing music with my band, Perenna, in my
 ### 📂 Featured Projects
 Real-world machine learning applications from my GitHub portfolio:  
 
-- **[Gold Recovery Modeling](#)** → Predictive regression model for ore recovery with business-driven accuracy targets  
-- **[Oil Well Development Modeling](#)** → Profit simulation with bootstrapping, risk of loss <2.5%  
-- **[Taxi Orders Forecasting](#)** → Time series models (AR, ARIMA, LightGBM) for demand prediction  
-- **[Customer Churn Prediction](#)** → Classification models to forecast churn and retention drivers  
-
-*(Links/repos under-construction)*
+- **[Gold Recovery Modeling](https://github.com/Flamingo-Rocker/Gold-Recovery-Modeling)** → Predictive regression model for ore recovery with business-driven accuracy targets  
+- **[Oil Well Development Modeling](https://github.com/Flamingo-Rocker/Oil-Well-Development-Modeling)** → Profit simulation with bootstrapping, risk of loss <2.5%  
+- **[Taxi Orders Forecasting](https://github.com/Flamingo-Rocker/Taxi-Orders-Forecasting)** → Time series models (AR, ARIMA, LightGBM) for demand prediction  
+- **[Interconnect Customer Churn Forecasting](https://github.com/Flamingo-Rocker/Interconnect-Customer-Churn-Forecasting)** → Classification models to forecast churn and retention drivers  
 
 ---
 
